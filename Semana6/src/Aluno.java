@@ -1,8 +1,7 @@
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class Aluno {
-	
+	private int numero;
 	String nome;
 	int anoMatricula;
 	int anoNascimento;
