@@ -1,6 +1,6 @@
 
 public class abcd {
 	
-private int number;
+private int number=1;
 String name;
 }
