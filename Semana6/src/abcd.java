@@ -1,6 +1,6 @@
 
 public class abcd {
 	
-private int number=1;
+private int number=2;
 
 }
